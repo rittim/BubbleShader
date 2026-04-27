@@ -14,23 +14,23 @@ The project is intentionally small: the UI exposes the shader controls directly,
 
 ## Preview
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/fb5c763e-5ce9-46ff-8d67-9d3f0605ead0">
-    <img src="Media/bubble-demo-1.jpg" alt="Bubble material preview" width="48%">
-  </a>
-  <a href="https://github.com/user-attachments/assets/685a283d-780f-4f24-8a19-3988bad9b929">
-    <img src="Media/bubble-demo-2.jpg" alt="Liquid material preview" width="48%">
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/d32a180d-54b0-4b05-9865-de08c1f666df">
-    <img src="Media/bubble-demo-3.jpg" alt="Glass material preview" width="48%">
-  </a>
-  <a href="https://github.com/user-attachments/assets/81999a59-8dd3-4852-9f8d-c18b2fe5853f">
-    <img src="Media/screen-recording.jpg" alt="Full screen recording" width="48%">
-  </a>
-</p>
+
+https://github.com/user-attachments/assets/fac39cf8-d947-4a07-b34a-7a94faffda54
+
+
+
+https://github.com/user-attachments/assets/d6bbb1f4-ad7f-4dec-a782-a1d37789eeb8
+
+
+
+https://github.com/user-attachments/assets/ab46efd9-afee-4253-89b1-0f5c1505d5e1
+
+
+
+https://github.com/user-attachments/assets/0b3733e9-347c-46b8-bb09-903ec8f2ec57
+
+
 
 ## Requirements
 
