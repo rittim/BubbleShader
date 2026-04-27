@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+
+# Build products and indexes
+.build/
+DerivedData/
+build/
+*.xcresult
+
+# Swift Package Manager
+.swiftpm/
+.package.resolved
+
+# Archives and debug symbols
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Local environment files
+*.env
+*.env.*
